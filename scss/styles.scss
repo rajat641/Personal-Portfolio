@@ -355,6 +355,11 @@ footer {
     overflow: hidden;
 }
 
+#projects {
+    
+
+}
+
 #lead-content {
     position: absolute;
     z-index: 10;
@@ -976,6 +981,10 @@ footer {
         h3, span {
             float: none;
         }
+    }
+
+    #projects {
+        padding : 5px 10px;
     }
 
     .project-image {
